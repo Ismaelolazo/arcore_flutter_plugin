@@ -49,6 +49,8 @@ android {
     lintOptions {
         textReport = true
     }
+    namespace 'com.dsi.arcore_flutter_plugin'
+
 }
 
 dependencies {
